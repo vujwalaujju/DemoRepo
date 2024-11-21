@@ -2,3 +2,6 @@ adding this into repo using amend command
 Commit #2 during Squash activity
 
 Commit #3 during Squash activity
+
+Commit #4 during Squash activity
+
